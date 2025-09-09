@@ -38,7 +38,7 @@ Built with **HTML**, **CSS**, and **JavaScript**, using [math.js](https://mathjs
 ## ⚡ How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/math-bot.git
+   git clone https://github.com/Rakshitgupta9/MathBot.git
     ```
 
 2. Navigate into the project folder:
