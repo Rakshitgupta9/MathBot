@@ -76,6 +76,5 @@ Built with **HTML**, **CSS**, and **JavaScript**, using [math.js](https://mathjs
 
 ---
 
-👨‍💻 Built with ❤️ using JavaScript and math.js
-🔗 [My Portfolio](https://rakshitgupta9.github.io/Portfolio/)  
+🔗 Built By - [My Portfolio](https://rakshitgupta9.github.io/Portfolio/)  using JavaScript and math.js.
 
