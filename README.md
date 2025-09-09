@@ -79,7 +79,3 @@ Built with **HTML**, **CSS**, and **JavaScript**, using [math.js](https://mathjs
 👨‍💻 Built with ❤️ using JavaScript and math.js
 🔗 [My Portfolio](https://rakshitgupta9.github.io/Portfolio/)  
 
-```
-
-Would you like me to also add a **screenshots section** (with placeholders) so your README looks more attractive on GitHub?
-```
